@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 80px;
+    height: 50px;
+}
+#portada{
+    width: 480px;
+    height: 480px;
+}
+.icono{
+    width: 30px;
+    height: 30px;
+}
+h1{
+    font-family: Arial ;
+    font-size: 50px;
+    font-weight: 700px;
+    letter-spacing: 5px;
+    color: blue;
+}
+p{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
